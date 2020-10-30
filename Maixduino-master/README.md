@@ -18,5 +18,5 @@ Refer install doc: [Install](https://maixduino.sipeed.com/en/get_started/install
 If you want to code by scripts, refer to our [MaixPy](https://maixpy.sipeed.com)
 
 
-
-
+## 
+editted by harry 2020.10.30
